@@ -1,4 +1,4 @@
-# HH.ru Auto Scroll + Vacancy Opener v7.0
+# HH.ru Auto Scroll + Vacancy Opener v1.0
 
 ## ✨ Что делает скрипт:
 
